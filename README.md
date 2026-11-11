@@ -13,7 +13,7 @@
 
 <img src="docs/screenshots/01_title.jpg" width="720" alt="타이틀 화면">
 
-▶ [시연 영상 보기](docs/demo.mp4)
+▶ [시연 영상 보기](docs/demo.mp4) · 📄 [결과보고서 (PDF)](docs/report.pdf)
 
 </div>
 
@@ -100,6 +100,18 @@ Assets/
 | 파일 수집 미니게임, 기획·발표·문서 | [@startercube](https://github.com/startercube) |
 
 원본 팀 저장소: [f1s1co/Install-or-not](https://github.com/f1s1co/Install-or-not)
+
+## 출처 및 라이선스
+
+결과보고서의 지식재산권 항목에 표기한 외부 에셋입니다.
+
+| 에셋 | 제작 |
+|---|---|
+| Modern UI Pack | Michsky |
+| Modern UI SFX – sound pack | Cyberleaf Studio |
+| Casual Game Music Pack | Dustyroom |
+
+> 위 에셋은 Unity Asset Store 라이선스에 따라 이 저장소에 포함하지 않았습니다.
 
 <details>
 <summary>원본 대비 정리한 내용</summary>
