@@ -6,4 +6,5 @@
 *.mp4 binary
 
 # TextMesh Pro는 Unity 기본 패키지 — 언어 통계에서 제외
-Assets/TextMesh[[:space:]]Pro/** linguist-vendored
+*.shader linguist-vendored
+*.cginc linguist-vendored
